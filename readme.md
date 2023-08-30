@@ -1,3 +1,5 @@
+# Dissertation - Motion in Mobile Virtual Reality
+
 Unity version 2019.4.21f1 required.
 Photon Networking, Post-processing and Android Tools need to be installed and set up.
 
